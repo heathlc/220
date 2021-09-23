@@ -26,7 +26,7 @@ def main():
     acc = 0
     har_acc = 0
     geo_acc = 1
-    for i in range(average_amount):
+    for _ in range(average_amount):
         values = eval(input("enter in numerical value of number: "))
         acc = acc + (values**2)
         avg = acc / average_amount
