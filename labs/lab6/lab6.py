@@ -1,6 +1,6 @@
 """
 Name: Lydia Heath
-<ProgramName>.py
+lab6.py
 """
 
 
